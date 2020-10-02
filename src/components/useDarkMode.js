@@ -9,7 +9,7 @@ export const useDarkMode = () => {
   };
 
   const themeToggler = () => {
-      theme === 'light' ? setMode('dark') : setMode('light')
+    theme === 'light' ? setMode('dark') : setMode('light')
   };
 
   useEffect(() => {

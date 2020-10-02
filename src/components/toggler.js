@@ -10,9 +10,12 @@ const Button = styled.button`
   font-size: 0.8rem;
   padding: 0.6rem;
   outline: none;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
 `;
 
-const Toggle = ({ theme, toggleTheme }) => {
+const Toggle = ({ toggleTheme }) => {
   return (
     <Button onClick={toggleTheme}>
       Switch Theme

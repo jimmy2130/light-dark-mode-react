@@ -1,4 +1,5 @@
 export const lightTheme = {
+  'mode': 'light',
   'primary-color': 'rgb(255, 92, 92)',
   'primary-variant': '#ff2d2d',
   'secondary-color': '#1b9999',
@@ -9,6 +10,7 @@ export const lightTheme = {
 }
 
 export const darkTheme = {
+  'mode': 'dark',
   'primary-color': 'rgb(150, 65, 255)',
   'primary-variant': '#6c63ff',
   'secondary-color': '#03dac5',

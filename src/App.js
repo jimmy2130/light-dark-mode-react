@@ -3,6 +3,7 @@ import { ThemeProvider } from "styled-components";
 import { useDarkMode } from "./components/useDarkMode";
 import { GlobalStyles } from "./components/global-styles";
 import { lightTheme, darkTheme } from "./components/themes";
+import NavigationBar from "./components/navigation-bar/navigation-bar.component";
 import Toggle from "./components/toggler.js";
 // import './App.css';
 
@@ -13,8 +14,9 @@ const App = () => {
   return (
     <ThemeProvider theme={themeMode}>
       <GlobalStyles/>
+      <NavigationBar />
       <div>
-        <Toggle theme={theme} toggleTheme={themeToggler} />
+        <Toggle toggleTheme={themeToggler} />
       </div>
     </ThemeProvider>
   );
