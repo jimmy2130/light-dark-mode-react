@@ -12,11 +12,12 @@ export const NavBar = styled.nav`
 `;
 
 export const NavLink = styled.a`
-  margin-right: 25px;
+  margin-right: 33.5px;
   color: ${({ theme }) => theme['primary-color']};
   text-decoration: none;
   border-bottom: 3px solid transparent;
   font-weight: bold;
+  user-select: none; 
 
   &:hover,
   &.active {
