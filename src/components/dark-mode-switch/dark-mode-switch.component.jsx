@@ -1,5 +1,5 @@
 import React from 'react';
-import { faSun, faMoon } from '@fortawesome/free-solid-svg-icons'
+import { faSun, faMoon } from '@fortawesome/free-solid-svg-icons';
 import {
   ThemeSwitchWrapper,
   ToggleIcon,
