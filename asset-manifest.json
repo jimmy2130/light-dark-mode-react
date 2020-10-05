@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/light-dark-mode-react/static/js/main.0aeb1761.chunk.js",
+    "main.js.map": "/light-dark-mode-react/static/js/main.0aeb1761.chunk.js.map",
+    "runtime-main.js": "/light-dark-mode-react/static/js/runtime-main.87b7d4e4.js",
+    "runtime-main.js.map": "/light-dark-mode-react/static/js/runtime-main.87b7d4e4.js.map",
+    "static/js/2.22754fb9.chunk.js": "/light-dark-mode-react/static/js/2.22754fb9.chunk.js",
+    "static/js/2.22754fb9.chunk.js.map": "/light-dark-mode-react/static/js/2.22754fb9.chunk.js.map",
+    "index.html": "/light-dark-mode-react/index.html",
+    "precache-manifest.a72d088f08ef3f9e7c89570c4f14452b.js": "/light-dark-mode-react/precache-manifest.a72d088f08ef3f9e7c89570c4f14452b.js",
+    "service-worker.js": "/light-dark-mode-react/service-worker.js",
+    "static/js/2.22754fb9.chunk.js.LICENSE.txt": "/light-dark-mode-react/static/js/2.22754fb9.chunk.js.LICENSE.txt",
+    "static/media/undraw_conceptual_idea_dark.svg": "/light-dark-mode-react/static/media/undraw_conceptual_idea_dark.9abd876c.svg",
+    "static/media/undraw_conceptual_idea_light.svg": "/light-dark-mode-react/static/media/undraw_conceptual_idea_light.d418cc6c.svg",
+    "static/media/undraw_feeling_proud_dark.svg": "/light-dark-mode-react/static/media/undraw_feeling_proud_dark.159ae1c5.svg",
+    "static/media/undraw_feeling_proud_light.svg": "/light-dark-mode-react/static/media/undraw_feeling_proud_light.6defa84a.svg",
+    "static/media/undraw_proud_coder_dark.svg": "/light-dark-mode-react/static/media/undraw_proud_coder_dark.c1f9993b.svg",
+    "static/media/undraw_proud_coder_light.svg": "/light-dark-mode-react/static/media/undraw_proud_coder_light.efa24236.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b7d4e4.js",
+    "static/js/2.22754fb9.chunk.js",
+    "static/js/main.0aeb1761.chunk.js"
+  ]
+}
